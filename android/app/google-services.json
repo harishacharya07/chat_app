@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "270125167637",
+    "project_id": "flutter-9965b",
+    "storage_bucket": "flutter-9965b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270125167637:android:6acf13ba214bef1c34ca1c",
+        "android_client_info": {
+          "package_name": "com.ttwcalc.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270125167637-vcng8ccetvee4j3o9jv6i7fv50gt6lk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9Gwc7nrx7gnqE4mmcTaBT8HGzRWQK6DA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270125167637-vcng8ccetvee4j3o9jv6i7fv50gt6lk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270125167637:android:6b9c0947ce9452d734ca1c",
+        "android_client_info": {
+          "package_name": "com.ttwcalc.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270125167637-vcng8ccetvee4j3o9jv6i7fv50gt6lk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9Gwc7nrx7gnqE4mmcTaBT8HGzRWQK6DA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270125167637-vcng8ccetvee4j3o9jv6i7fv50gt6lk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
